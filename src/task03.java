@@ -8,13 +8,13 @@ public class task03 {
         final int YELLOW = 4;
         float x, y, R;
         int color = 0;
-        System.out.print("Введите x: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ x: ");
         Scanner sc = new Scanner(System.in);
         x = sc.nextFloat();
-        System.out.print("Введите y: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ y: ");
         Scanner sc1 = new Scanner(System.in);
         y = sc1.nextFloat();
-        System.out.print("Введите радиус круга: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ СЂР°РґРёСѓСЃ РєСЂСѓРіР°: ");
         Scanner sc3 = new Scanner(System.in);
         R = sc3.nextFloat();
 

@@ -4,19 +4,19 @@ public class task03var06 {
     public static void main(String[] args) {
         float x, y, R1, R2, Y;
         int color = 0;
-        System.out.print("Введите x: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ x: ");
         Scanner sc = new Scanner(System.in);
         x = sc.nextFloat();
-        System.out.print("Введите y: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ y: ");
         Scanner sc1 = new Scanner(System.in);
         y = sc1.nextFloat();
-        System.out.print("Введите радиус красного круга: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ СЂР°РґРёСѓСЃ РєСЂР°СЃРЅРѕРіРѕ РєСЂСѓРіР°: ");
         Scanner sc3 = new Scanner(System.in);
         R1 = sc3.nextFloat();
-        System.out.print("Введите радиус желтого круга: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ СЂР°РґРёСѓСЃ Р¶РµР»С‚РѕРіРѕ РєСЂСѓРіР°: ");
         Scanner sc4 = new Scanner(System.in);
         R2 = sc4.nextFloat();
-        System.out.print("Введите Y: ");
+        System.out.print("Р’РІРµРґРёС‚Рµ Y: ");
         Scanner sc5 = new Scanner(System.in);
         Y = sc5.nextFloat();
 
@@ -29,22 +29,22 @@ public class task03var06 {
 
         switch (color) {
             case 1: {
-                System.out.println("Попадание в красную зону");
+                System.out.println("РџРѕРїР°РґР°РЅРёРµ РІ РєСЂР°СЃРЅСѓСЋ Р·РѕРЅСѓ");
                 System.out.println("SPO= " + (x + 1 / (2 * x - y)));
             }
             break;
             case 2: {
-                System.out.println("Попадание в синюю зону");
+                System.out.println("РџРѕРїР°РґР°РЅРёРµ РІ СЃРёРЅСЋСЋ Р·РѕРЅСѓ");
                 System.out.println("SPO= " + (1 / (x - y)));
             }
             break;
             case 3: {
-                System.out.println("Попадание в желтую зону");
+                System.out.println("РџРѕРїР°РґР°РЅРёРµ РІ Р¶РµР»С‚СѓСЋ Р·РѕРЅСѓ");
                 System.out.println("SPO= " + (x / (5 * y - x)));
             }
             break;
             default: {
-                System.out.println("Попадание в белую зону");
+                System.out.println("РџРѕРїР°РґР°РЅРёРµ РІ Р±РµР»СѓСЋ Р·РѕРЅСѓ");
                 System.out.println("SPO= " + (x * y));
             }
         }
