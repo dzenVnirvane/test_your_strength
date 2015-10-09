@@ -16,12 +16,19 @@ public class task07
             if (chislo2 >= chislo1)
                 System.out.println("Ашипка, возвращение к вводу числа.");
         }
-        long factor = chislo1;
-        while (chislo1 != chislo2)
+        long factor = chislo2;
+        int buf = chislo2;
+        while (buf != 1)
         {
-            factor = factor * (chislo1 - 1);
-            chislo1--;
+            factor *= (buf - 1);
+            buf--;
         }
-        System.out. print("Факториалом числа от первого введенного до " + chislo2 + " есть число " + factor);
+        System.out.print(factor);
+        long factor1 = chislo1;
+        while (chislo2 != chislo1)
+        {
+            chislo2++;
+            System.out.print(" * " + chislo2);
+        }
     }
 }

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class task03var06 {
     public static void main(String[] args) {
-        float x, y, R1, R2, Y;
+        final float x, y, R1, R2, Y;
         int color = 0;
         System.out.print("Введите x: ");
         Scanner sc = new Scanner(System.in);
