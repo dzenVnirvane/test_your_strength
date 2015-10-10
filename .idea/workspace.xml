@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb01d89-2a6b-4978-9d7c-36a4a45d000e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GitHub/finalTask.class" afterPath="$PROJECT_DIR$/out/production/GitHub/finalTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GitHub/task01.class" afterPath="$PROJECT_DIR$/out/production/GitHub/task01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GitHub/task02.class" afterPath="$PROJECT_DIR$/out/production/GitHub/task02.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GitHub/task08.class" afterPath="$PROJECT_DIR$/out/production/GitHub/task08.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\DZEN\Desktop\Dev\DZEN\out\production\GitHub\finalTask.class" afterPath="C:\Users\DZEN\Desktop\Dev\DZEN\out\production\GitHub\finalTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/finalTask.java" afterPath="$PROJECT_DIR$/src/finalTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/task01.java" afterPath="$PROJECT_DIR$/src/task01.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/task02.java" afterPath="$PROJECT_DIR$/src/task02.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/task03var06.java" afterPath="$PROJECT_DIR$/src/task03var06.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/task07.java" afterPath="$PROJECT_DIR$/src/task07.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/task08.java" afterPath="$PROJECT_DIR$/src/task08.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test_your_strength.iws" />
@@ -38,8 +29,8 @@
       <file leaf-file-name="finalTask.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/finalTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3884007">
-              <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.8030127">
+              <caret line="129" column="82" selection-start-line="129" selection-start-column="82" selection-end-line="129" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -481,7 +472,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -523,6 +514,14 @@
     <entry file="file://$PROJECT_DIR$/src/finalTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding />
         </state>
@@ -532,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="9" selection-start-line="10" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.059753954">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,14 +703,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80667835">
           <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/finalTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3884007">
-          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.8030127">
+          <caret line="129" column="82" selection-start-line="129" selection-start-column="82" selection-end-line="129" selection-end-column="82" />
           <folding />
         </state>
       </provider>
